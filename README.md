@@ -13,7 +13,7 @@ The goal is to classify individuals as **Extroverts** or **Introverts** based on
 ## 📓 Google Colab Notebook
 
 You can open and run the project directly in Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([LINK_TO_YOUR_NOTEBOOK](https://colab.research.google.com/drive/171vMVdC4xJ3R7atuH5JpWq5c9yDZp9Vy?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/171vMVdC4xJ3R7atuH5JpWq5c9yDZp9Vy?usp=sharing)
 
 ## 🔄 Data Preprocessing
 
